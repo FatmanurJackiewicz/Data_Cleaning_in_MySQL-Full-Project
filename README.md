@@ -1,6 +1,7 @@
 MySQL Data Cleaning Project 
 =========================== 
 Overview -------- 
+
 This project focuses on cleaning and preparing a dataset in MySQL by performing various data cleaning tasks.
 The following steps were applied to ensure the dataset was ready for analysis: 
 1. **Remove Duplicates**: Identified and removed any duplicate records to ensure data consistency.
@@ -18,8 +19,6 @@ How to Use ----------
 2. Import the provided SQL file into your MySQL environment.
 3. Run the SQL queries to clean and standardize your dataset.
 
-File Description ---------------- 
-**Data\_Cleaning\_in\_MySQL\_Full\_Project.sql**: Contains all SQL queries used in this project to clean the dataset. 
 
 Project Objectives ------------------ 
 * Ensure data integrity by removing duplicates and null values.
