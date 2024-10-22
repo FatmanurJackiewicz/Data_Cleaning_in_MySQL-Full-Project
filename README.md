@@ -1,4 +1,4 @@
-“MySQL Data Cleaning Project =========================== 
+MySQL Data Cleaning Project =========================== 
 Overview -------- 
 This project focuses on cleaning and preparing a dataset in MySQL by performing various data cleaning tasks.
 The following steps were applied to ensure the dataset was ready for analysis: 
@@ -23,7 +23,7 @@ File Description ----------------
 Project Objectives ------------------ 
 * Ensure data integrity by removing duplicates and null values.
 * Standardize data for uniformity.
-* Optimize the dataset by removing unnecessary data points.”
+* Optimize the dataset by removing unnecessary data points.
 
 
 
