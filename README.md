@@ -1,4 +1,5 @@
-MySQL Data Cleaning Project =========================== 
+MySQL Data Cleaning Project 
+=========================== 
 Overview -------- 
 This project focuses on cleaning and preparing a dataset in MySQL by performing various data cleaning tasks.
 The following steps were applied to ensure the dataset was ready for analysis: 
