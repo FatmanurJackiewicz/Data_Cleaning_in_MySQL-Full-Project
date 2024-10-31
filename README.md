@@ -1,6 +1,6 @@
 MySQL Data Cleaning Project 
 =========================== 
-Overview -------- 
+**Overview**
 
 This project focuses on cleaning and preparing a dataset in MySQL by performing various data cleaning tasks.
 The following steps were applied to ensure the dataset was ready for analysis: 
@@ -9,18 +9,18 @@ The following steps were applied to ensure the dataset was ready for analysis:
 3. **Handle Null or Blank Values**: Managed missing or incomplete data by filling or removing null/blank values based on the requirements.
 4. **Remove Unnecessary Columns/Rows**: Eliminated irrelevant columns or rows that were not needed for analysis.
   
-Technologies Used ----------------- 
+**Technologies Used**
 * MySQL
 * SQL queries for data manipulation
   
 
-How to Use ---------- 
+**How to Use**
 1. Clone this repository: bash Copy code `git clone https://github.com/yourusername/your-repo-name.git`
 2. Import the provided SQL file into your MySQL environment.
 3. Run the SQL queries to clean and standardize your dataset.
 
 
-Project Objectives ------------------ 
+**Project Objectives** 
 * Ensure data integrity by removing duplicates and null values.
 * Standardize data for uniformity.
 * Optimize the dataset by removing unnecessary data points.
